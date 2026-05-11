@@ -1,0 +1,4 @@
+=== 部署开始 2026-05-11T21:58:16+08:00 ===
+[21:58:16] ==> 准备回滚 vision-toolkit
+[21:58:16] [ERROR] 找不到备份记录：/home/eki/vision-toolkit/.deploy-backup/last-image.txt
+[21:58:16] [ERROR] 这是第一次部署吗？回滚需要至少一次成功部署作为参考点
