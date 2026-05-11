@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 测试
+.pytest_cache/
+.coverage
+
+# 输出
+output/
+*.jpg
+*.png
+!examples/*.jpg
+!examples/*.png
+
+# 部署脚本产生的运行时文件，不入库
+logs/deploy/
+.deploy-backup/
